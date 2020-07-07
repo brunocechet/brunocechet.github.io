@@ -8,10 +8,9 @@ language: "" # language to set into html tag, default is en
 
 author: Bruno Cechet
 author-title: Full Stack Developer
-gravatar: ""
+gravatar: "3487df95e166c9d79ebbbe9ef8c98413"
 email: brunocechet@gmail.com
 formspree: mgennpgy
-twitter: bcechet
 github: brunocechet
 linkedin: brunocechet/en
 bio: ""
